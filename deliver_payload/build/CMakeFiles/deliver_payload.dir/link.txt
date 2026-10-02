@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/deliver_payload.dir/link.d CMakeFiles/deliver_payload.dir/deliver_payload.cpp.o -o deliver_payload  -Wl,-rpath,/usr/local/lib /usr/local/lib/libmavsdk.so.3.15.0 -ldl

@@ -1,0 +1,36 @@
+body {
+  text-align: center;
+}
+
+img {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+}
+
+.project-images {
+  width: 500px;
+  height: 300px;
+  object-fit: cover;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+h1 {
+  font-size: 2.5rem;
+}
+
+h2 {
+  font-size: 1.8rem;
+}
+
+p {
+  font-size: 1.2rem;
+}
+
+li {
+  font-size: 1.3rem;
+}

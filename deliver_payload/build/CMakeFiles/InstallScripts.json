@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/kaijewl2/projects/far_star/drone_delivery/deliver_payload/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

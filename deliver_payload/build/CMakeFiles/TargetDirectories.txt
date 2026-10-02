@@ -1,0 +1,3 @@
+/home/kaijewl2/projects/far_star/drone_delivery/deliver_payload/build/CMakeFiles/deliver_payload.dir
+/home/kaijewl2/projects/far_star/drone_delivery/deliver_payload/build/CMakeFiles/edit_cache.dir
+/home/kaijewl2/projects/far_star/drone_delivery/deliver_payload/build/CMakeFiles/rebuild_cache.dir
